@@ -4,6 +4,34 @@ Shell para Hyprland feito em [Quickshell](https://quickshell.org): uma pílula n
 
 > Status: uso pessoal, repositório privado. Algumas integrações ainda têm valores fixos da máquina original. Veja [Ajustes para a sua máquina](#ajustes-para-a-sua-máquina).
 
+![Desktop com a pill no topo](docs/screenshots/desktop.webp)
+
+## Prints
+
+### Surfaces da pílula
+
+| Launcher | Mixer |
+|---|---|
+| ![Launcher](docs/screenshots/launcher.webp) | ![Mixer](docs/screenshots/mixer.webp) |
+| **Calendário** | **Rede / Bluetooth** |
+| ![Calendário](docs/screenshots/calendar.webp) | ![Rede e Bluetooth](docs/screenshots/link.webp) |
+| **Energia** | **Claude Code** |
+| ![Energia](docs/screenshots/power.webp) | ![Claude Code](docs/screenshots/claude.webp) |
+| **Mídia** | |
+| ![Mídia](docs/screenshots/media.webp) | |
+
+### Drawer lateral
+
+| VPN | Tarefas |
+|---|---|
+| ![Drawer: VPN](docs/screenshots/drawer-vpn.webp) | ![Drawer: tarefas](docs/screenshots/drawer-todos.webp) |
+| **Disco** | **Celular** |
+| ![Drawer: disco](docs/screenshots/drawer-storage.webp) | ![Drawer: celular](docs/screenshots/drawer-phone.webp) |
+| **Chat com IA** | |
+| ![Drawer: chat com IA](docs/screenshots/drawer-ai.webp) | |
+
+Alguns trechos aparecem borrados de propósito, porque mostravam dados pessoais ou de trabalho. As views de GitHub, notificações e clipboard ficaram de fora pelo mesmo motivo.
+
 ---
 
 ## Pré-requisitos
