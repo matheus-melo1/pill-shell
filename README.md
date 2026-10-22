@@ -69,7 +69,8 @@ O nome da pasta precisa ser `pill`: é ele que o `qs -c pill` procura.
 
 ```bash
 mkdir -p ~/.config/quickshell
-git clone git@github.com:matheus-melo1/pill-shell.git ~/.config/quickshell/pill
+gh repo clone matheus-melo1/pill-shell ~/.config/quickshell/pill
+# ou: git clone https://github.com/matheus-melo1/pill-shell.git ~/.config/quickshell/pill
 ```
 
 ### 2. Testar
