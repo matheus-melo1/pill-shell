@@ -1,0 +1,17 @@
+singleton Theme Theme.qml
+singleton Motion Motion.qml
+singleton Flags Flags.qml
+singleton Notifs Notifs.qml
+singleton Cliphist Cliphist.qml
+singleton Walls Walls.qml
+singleton Devices Devices.qml
+singleton Battery Battery.qml
+singleton Claude Claude.qml
+singleton GitHub GitHub.qml
+singleton Vpn Vpn.qml
+singleton NotifLog NotifLog.qml
+singleton Ai Ai.qml
+singleton Todo Todo.qml
+singleton Storage Storage.qml
+singleton Agents Agents.qml
+singleton Phone Phone.qml
