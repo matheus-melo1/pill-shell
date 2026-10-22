@@ -22,15 +22,15 @@ Shell para Hyprland feito em [Quickshell](https://quickshell.org): uma pílula n
 
 ### Drawer lateral
 
-| VPN | Tarefas |
+| GitHub | VPN |
 |---|---|
-| ![Drawer: VPN](docs/screenshots/drawer-vpn.webp) | ![Drawer: tarefas](docs/screenshots/drawer-todos.webp) |
-| **Disco** | **Celular** |
-| ![Drawer: disco](docs/screenshots/drawer-storage.webp) | ![Drawer: celular](docs/screenshots/drawer-phone.webp) |
-| **Chat com IA** | |
-| ![Drawer: chat com IA](docs/screenshots/drawer-ai.webp) | |
+| ![Drawer: GitHub](docs/screenshots/drawer-github.webp) | ![Drawer: VPN](docs/screenshots/drawer-vpn.webp) |
+| **Tarefas** | **Disco** |
+| ![Drawer: tarefas](docs/screenshots/drawer-todos.webp) | ![Drawer: disco](docs/screenshots/drawer-storage.webp) |
+| **Celular** | **Chat com IA** |
+| ![Drawer: celular](docs/screenshots/drawer-phone.webp) | ![Drawer: chat com IA](docs/screenshots/drawer-ai.webp) |
 
-Alguns trechos aparecem borrados de propósito, porque mostravam dados pessoais ou de trabalho. As views de GitHub, notificações e clipboard ficaram de fora pelo mesmo motivo.
+Alguns trechos aparecem borrados de propósito, porque mostravam dados pessoais ou de trabalho. Na drawer do GitHub os cards de issues estão borrados; notificações e clipboard ficaram de fora pelo mesmo motivo.
 
 ---
 
